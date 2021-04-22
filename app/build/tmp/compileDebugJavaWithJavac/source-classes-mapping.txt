@@ -1,0 +1,8 @@
+com/example/textdetector/BuildConfig.java
+ com.example.textdetector.BuildConfig
+com/example/textdetector/MainActivity.java
+ com.example.textdetector.MainActivity
+ com.example.textdetector.MainActivity$1
+ com.example.textdetector.MainActivity$2
+ com.example.textdetector.MainActivity$2$1
+ com.example.textdetector.MainActivity$2$2
